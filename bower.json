@@ -1,0 +1,10 @@
+{
+  "name": "fcc-tribute-page",
+  "homepage": "https://github.com/gattomau/fcc-tribute-page",
+  "description": "My FCC Tribute Page",
+  "main": "index.html",
+  "authors": [
+    "Maurizio Zeleznik <mauriziozeleznik@gmail.com>"
+  ],
+  "license": "Proprietary"
+}
